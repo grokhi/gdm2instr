@@ -1,0 +1,1 @@
+pyinstaller -F kelkka.spec --add-binary "radioactive.ico;."
